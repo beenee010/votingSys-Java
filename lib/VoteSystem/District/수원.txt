@@ -1,0 +1,6 @@
+1번	Jung	4
+2번	Moon	0
+3번	Ye	10
+4번	Hee	0
+5번	Kim	2
+6번	Lee	3

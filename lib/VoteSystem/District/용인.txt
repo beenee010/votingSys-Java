@@ -1,0 +1,4 @@
+1번	Park	1
+2번	Hee	0
+3번	Kim	1
+4번	Lee	0
